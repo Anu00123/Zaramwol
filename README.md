@@ -1,4 +1,6 @@
 [![name](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anu00123/Zaramwol/edit/master/README.md)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)]()
+
 <div align="center">
 <img 
 src="https://s10.gifyu.com/images/87644b9756a75c15a840372f61531b14.png" alt="img" width="220" height="30"/>
